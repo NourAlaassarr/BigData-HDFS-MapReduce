@@ -68,6 +68,9 @@ Write a MapReduce program to find the friends of friends for a given person. For
 ## Sorting Key/Value Pairs on HDFS
 
 Given a file containing key/value pairs stored on the Hadoop Distributed File System (HDFS), write a MapReduce program to sort the data in this file using Hadoop's sorting mechanism by the key and store the results back on HDFS.
+## Contributors
 
+- [Nour](https://github.com/NourAlaassarr)
+- [Another Contributor](https://github.com/another-contributor)
 ---
 Feel free to explore the provided MapReduce programs for various operations and adapt them to your specific requirements.
